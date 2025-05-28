@@ -208,7 +208,7 @@ export default function Portfolio() {
 
               <div className="relative overflow-hidden rounded-xl sm:rounded-2xl transition-shadow duration-500">
                 <Image
-                  src="/images/helios2.png"
+                  src="https://i.postimg.cc/BvyPcDRM/helios2.png"
                   alt="Helios Project"
                   width={1200}
                   height={600}
