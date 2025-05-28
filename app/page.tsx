@@ -206,13 +206,13 @@ export default function Portfolio() {
                 </p>
               </div>
 
-              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-lg group-hover:shadow-2xl transition-shadow duration-500">
+              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl transition-shadow duration-500">
                 <Image
-                  src="https://gracemmaa.com/images/helios2.png"
+                  src="/images/helios2.png"
                   alt="Helios Project"
                   width={1200}
                   height={600}
-                  className="w-full h-auto transition-transform duration-700 ease-out group-hover:scale-105"
+                  className="w-full h-auto block transition-transform duration-700 ease-out group-hover:scale-105"
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 90vw, 80vw"
                 />
                 <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-all duration-500"></div>
@@ -239,7 +239,7 @@ export default function Portfolio() {
                 </p>
               </div>
 
-              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-lg group-hover:shadow-2xl transition-shadow duration-500">
+              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-2xl group-hover:shadow-3xl transition-shadow duration-500">
                 <Image
                   src="https://i.postimg.cc/ZnTTYyMq/Untitled-1-Recovered-01-01.png"
                   alt="Farm Swarming Project"
@@ -272,7 +272,7 @@ export default function Portfolio() {
                 </p>
               </div>
 
-              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-lg group-hover:shadow-2xl transition-shadow duration-500">
+              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-2xl group-hover:shadow-3xl transition-shadow duration-500">
                 <Image
                   src="https://i.postimg.cc/8kvwTWbH/Untitled-1-02.png"
                   alt="Jollyseeding Project"
@@ -305,7 +305,7 @@ export default function Portfolio() {
                 </p>
               </div>
 
-              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-lg group-hover:shadow-2xl transition-shadow duration-500">
+              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-2xl group-hover:shadow-3xl transition-shadow duration-500">
                 <Image
                   src="https://i.postimg.cc/DyHtBXPb/Untitled-1-02-01.png"
                   alt="Break the Ice Project"
@@ -338,7 +338,7 @@ export default function Portfolio() {
                 </p>
               </div>
 
-              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-lg group-hover:shadow-2xl transition-shadow duration-500">
+              <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-2xl group-hover:shadow-3xl transition-shadow duration-500">
                 <Image
                   src="https://i.postimg.cc/Nj1KgfWn/Untitled-1-Recovered-01.png"
                   alt="Schoolhouse.world User Dashboard Project"
