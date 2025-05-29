@@ -92,7 +92,7 @@ export default function SchoolhouseProject() {
         <section className="mb-16">
           <div className="w-full">
             <Image
-              src="/images/schoolhouse-banner.jpg"
+              src="https://christy-hu.com/images/graphic/shw/banner.jpg"
               alt="Schoolhouse Banner"
               width={1920}
               height={800}
@@ -183,7 +183,7 @@ export default function SchoolhouseProject() {
         <section className="mb-16">
           <div className="w-full">
             <Image
-              src="/images/schoolhouse-before-after.jpg"
+              src="https://christy-hu.com/images/graphic/shw/before-after.jpg"
               alt="Before and After Comparison"
               width={1920}
               height={800}
@@ -220,7 +220,7 @@ export default function SchoolhouseProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/schoolhouse-competitive.jpeg"
+              src="https://christy-hu.com/images/graphic/shw/image.jpeg"
               alt="Competitive Analysis"
               width={1200}
               height={800}
@@ -245,7 +245,7 @@ export default function SchoolhouseProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/schoolhouse-sketch.jpg"
+              src="https://christy-hu.com/images/graphic/shw/sketch.jpg"
               alt="Initial Sketches"
               width={1200}
               height={800}
@@ -261,7 +261,7 @@ export default function SchoolhouseProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/schoolhouse-dashboard-sketch.jpg"
+              src="https://christy-hu.com/images/graphic/shw/dashboard_sketch_directions.jpg"
               alt="Dashboard Sketch Directions"
               width={1200}
               height={800}
@@ -277,7 +277,7 @@ export default function SchoolhouseProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/schoolhouse-two-directions.jpg"
+              src="https://christy-hu.com/images/graphic/shw/dashboard_two_directions.jpg"
               alt="Two Dashboard Directions"
               width={1200}
               height={800}
@@ -293,7 +293,7 @@ export default function SchoolhouseProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/schoolhouse-sitemap.jpg"
+              src="https://christy-hu.com/images/graphic/shw/sitemap.jpg"
               alt="Site Map"
               width={1200}
               height={800}
@@ -317,7 +317,7 @@ export default function SchoolhouseProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/schoolhouse-prototype.gif"
+              src="https://christy-hu.com/images/graphic/shw/prototype.gif"
               alt="Interactive Prototype"
               width={1200}
               height={800}
@@ -359,7 +359,7 @@ export default function SchoolhouseProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/schoolhouse-mobile.jpg"
+              src="https://christy-hu.com/images/graphic/shw/dashboard_mobile.jpg"
               alt="Mobile Dashboard"
               width={1200}
               height={800}
