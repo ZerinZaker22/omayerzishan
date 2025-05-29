@@ -109,7 +109,7 @@ export default function AboutPage() {
                 <div className="space-y-4">
                   <div className="relative h-[290px]">
                     <Image
-                      src="/images/about-photo2.jpg"
+                      src="https://i.postimg.cc/Hk3Zn58c/9001b8fa5ba08b077b3ba783024ae6ab.jpg"
                       alt="Omayer Zishan"
                       width={400}
                       height={290}
