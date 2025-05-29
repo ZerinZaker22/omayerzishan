@@ -79,7 +79,7 @@ export default function JollyseedingProject() {
         {/* Hero Image */}
         <div className="mb-16">
           <Image
-            src="/images/jolly-hero.jpg"
+            src="https://static.wixstatic.com/media/96ca9e_2030a7e943e64a60a795edd6e15be919~mv2.jpg/v1/fill/w_1401,h_552,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_2030a7e943e64a60a795edd6e15be919~mv2.jpg"
             alt="Jollyseeding Hero"
             width={1400}
             height={550}
@@ -148,7 +148,7 @@ export default function JollyseedingProject() {
             </div>
             <div>
               <Image
-                src="/images/jolly-child.jpg"
+                src="https://static.wixstatic.com/media/96ca9e_66da9aacbe7940d4b908f4c3aa3ba8b6~mv2.jpeg/v1/fill/w_477,h_318,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_66da9aacbe7940d4b908f4c3aa3ba8b6~mv2.jpeg"
                 alt="Child with autism"
                 width={477}
                 height={318}
@@ -183,7 +183,7 @@ export default function JollyseedingProject() {
             </div>
             <div>
               <Image
-                src="/images/jolly-scenario.jpg"
+                src="https://static.wixstatic.com/media/96ca9e_99c5ec21a10848bab189bf53e5812fda~mv2.jpg/v1/fill/w_979,h_929,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/scenariofinal1_edited.jpg"
                 alt="Usage scenario"
                 width={600}
                 height={600}
@@ -201,7 +201,7 @@ export default function JollyseedingProject() {
           <div className="grid md:grid-cols-2 gap-8 mb-8">
             <div>
               <Image
-                src="/images/jolly-concept.png"
+                src="https://static.wixstatic.com/media/96ca9e_911cc74767f54d5baa92915ec6233181~mv2.png/v1/crop/x_0,y_0,w_3263,h_1693/fill/w_981,h_508,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_911cc74767f54d5baa92915ec6233181~mv2.png"
                 alt="Concept development"
                 width={981}
                 height={508}
@@ -210,7 +210,7 @@ export default function JollyseedingProject() {
             </div>
             <div>
               <Image
-                src="/images/jolly-research.png"
+                src="https://static.wixstatic.com/media/96ca9e_f0c107367bbf4aa38996222525b18198~mv2.png/v1/fill/w_980,h_459,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_f0c107367bbf4aa38996222525b18198~mv2.png"
                 alt="Research insights"
                 width={980}
                 height={459}
@@ -224,7 +224,7 @@ export default function JollyseedingProject() {
         <section className="mb-16">
           <div className="text-center mb-8">
             <Image
-              src="/images/jolly-icon.png"
+              src="https://static.wixstatic.com/media/96ca9e_205314e1eab844fba497b578bae69d82~mv2.png/v1/fill/w_247,h_214,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_205314e1eab844fba497b578bae69d82~mv2.png"
               alt="Jollyseeding logo"
               width={247}
               height={214}
@@ -233,7 +233,7 @@ export default function JollyseedingProject() {
           </div>
           <div className="text-center">
             <Image
-              src="/images/jolly-fly.png"
+              src="https://static.wixstatic.com/media/96ca9e_25049de6d8764b8ba1710befa89b652b~mv2.png/v1/fill/w_560,h_585,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/FLY_edited.png"
               alt="Jollyseeding branding"
               width={560}
               height={585}
@@ -249,7 +249,7 @@ export default function JollyseedingProject() {
           </h2>
           <div className="mb-8">
             <Image
-              src="/images/jolly-prototype.png"
+              src="https://static.wixstatic.com/media/96ca9e_2982d256b7624bc9a67ac687b7f2f348~mv2.png/v1/fill/w_415,h_277,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_2982d256b7624bc9a67ac687b7f2f348~mv2.png"
               alt="Prototype development"
               width={415}
               height={277}
@@ -263,7 +263,7 @@ export default function JollyseedingProject() {
           <h2 className={`text-3xl font-bold mb-8 ${isDarkMode ? "text-white" : "text-black"}`}>Sensory Stimulation</h2>
           <div className="mb-8">
             <Image
-              src="/images/jolly-sensory.png"
+              src="https://static.wixstatic.com/media/96ca9e_76d36ba460a9439dba4fb9d7c80879b1~mv2.png/v1/fill/w_986,h_452,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/scenario%20sensory1_edited.png"
               alt="Sensory stimulation scenarios"
               width={986}
               height={452}
@@ -277,7 +277,7 @@ export default function JollyseedingProject() {
           <h2 className={`text-3xl font-bold mb-8 ${isDarkMode ? "text-white" : "text-black"}`}>IDUS Review</h2>
           <div className="mb-8">
             <Image
-              src="/images/jolly-review.png"
+              src="https://static.wixstatic.com/media/96ca9e_af22d48642834c85a499dc0e0c61dc38~mv2.png/v1/fill/w_980,h_551,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/IDUS%20Review%20.png"
               alt="IDUS Review"
               width={980}
               height={551}
@@ -294,7 +294,7 @@ export default function JollyseedingProject() {
           <div className="grid md:grid-cols-2 gap-8 mb-8">
             <div>
               <Image
-                src="/images/jolly-anim1.gif"
+                src="https://static.wixstatic.com/media/96ca9e_e4d026992cf6496aa9f824ea1e32ee7b~mv2.gif"
                 alt="Interactive animation 1"
                 width={400}
                 height={400}
@@ -303,7 +303,7 @@ export default function JollyseedingProject() {
             </div>
             <div>
               <Image
-                src="/images/jolly-anim2.gif"
+                src="https://static.wixstatic.com/media/96ca9e_3ff6419b3b0e4694b55ff06aceffe567~mv2.gif"
                 alt="Interactive animation 2"
                 width={400}
                 height={400}
@@ -317,7 +317,7 @@ export default function JollyseedingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/jolly-product.png"
+              src="https://static.wixstatic.com/media/96ca9e_f74f53b8e762447e976e394ee5255373~mv2.png/v1/fill/w_699,h_393,al_c,lg_1,q_85,enc_avif,quality_auto/96ca9e_f74f53b8e762447e976e394ee5255373~mv2.png"
               alt="Product features"
               width={699}
               height={393}
@@ -326,7 +326,7 @@ export default function JollyseedingProject() {
           </div>
           <div className="text-center mb-8">
             <Image
-              src="/images/jolly-anim3.gif"
+              src="https://static.wixstatic.com/media/96ca9e_5af739b37fde44a98189881ef824eea0~mv2.gif"
               alt="Product interaction"
               width={400}
               height={400}
@@ -344,7 +344,7 @@ export default function JollyseedingProject() {
           </p>
           <div className="mb-8">
             <Image
-              src="/images/jolly-simple.png"
+              src="https://static.wixstatic.com/media/96ca9e_d874f997a5dc40d9bf1d48ddc93df26a~mv2.png/v1/fill/w_978,h_550,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/simple.png"
               alt="Simple use demonstration"
               width={978}
               height={550}
@@ -359,7 +359,7 @@ export default function JollyseedingProject() {
           <div className="grid md:grid-cols-2 gap-8 mb-8">
             <div>
               <Image
-                src="/images/jolly-design1.png"
+                src="https://static.wixstatic.com/media/96ca9e_c76476ced88144dbad3fa11f54f9261a~mv2.png/v1/fill/w_310,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%9C%AA%E5%91%BD%E5%90%8D%E4%BD%9C%E5%93%81%205%E7%9A%84%E5%89%AF%E6%9C%AC.png"
                 alt="Design variation 1"
                 width={310}
                 height={380}
@@ -368,7 +368,7 @@ export default function JollyseedingProject() {
             </div>
             <div>
               <Image
-                src="/images/jolly-design2.png"
+                src="https://static.wixstatic.com/media/96ca9e_b87d4167a2684aea8db60338345133b5~mv2.png/v1/fill/w_310,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/%E6%9C%AA%E5%91%BD%E5%90%8D%E4%BD%9C%E5%93%81%207.png"
                 alt="Design variation 2"
                 width={310}
                 height={380}
@@ -384,7 +384,7 @@ export default function JollyseedingProject() {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
               <Image
-                src="/images/jolly-detail1.png"
+                src="https://static.wixstatic.com/media/96ca9e_b3be04e45c7f41c984fba63ce9419cf1~mv2.png/v1/fill/w_318,h_216,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_b3be04e45c7f41c984fba63ce9419cf1~mv2.png"
                 alt="Product detail 1"
                 width={318}
                 height={216}
@@ -393,7 +393,7 @@ export default function JollyseedingProject() {
             </div>
             <div>
               <Image
-                src="/images/jolly-detail2.png"
+                src="https://static.wixstatic.com/media/96ca9e_5e11b0c227e24d4e9dbcf20086b2a1bf~mv2.png/v1/fill/w_318,h_216,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_5e11b0c227e24d4e9dbcf20086b2a1bf~mv2.png"
                 alt="Product detail 2"
                 width={318}
                 height={216}
@@ -402,7 +402,7 @@ export default function JollyseedingProject() {
             </div>
             <div>
               <Image
-                src="/images/jolly-detail3.png"
+                src="https://static.wixstatic.com/media/96ca9e_759e23154df742c78fbba39d7405db7b~mv2.png/v1/fill/w_318,h_216,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/96ca9e_759e23154df742c78fbba39d7405db7b~mv2.png"
                 alt="Product detail 3"
                 width={318}
                 height={216}
