@@ -141,7 +141,7 @@ export default function FarmSwarmingProject() {
         {/* Hero Image Section */}
         <div className="mb-16">
           <Image
-            src="/images/fs-1.avif"
+            src="https://www.ngan-nguyen.com/images/FS-1-min_1FS-1-min.avif"
             alt="Farm Swarming Hero"
             width={1200}
             height={800}
@@ -153,7 +153,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-2.avif"
+              src="https://www.ngan-nguyen.com/images/FS-2-min_1FS-2-min.avif"
               alt="Farm Fresh Eggs"
               width={1200}
               height={600}
@@ -166,7 +166,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-3.avif"
+              src="https://www.ngan-nguyen.com/images/FS-3-min_1FS-3-min.avif"
               alt="Fresh Produce"
               width={1200}
               height={600}
@@ -184,7 +184,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-4.avif"
+              src="https://www.ngan-nguyen.com/images/FS-4-min_1FS-4-min.avif"
               alt="Product Categories"
               width={1200}
               height={800}
@@ -197,7 +197,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-5.avif"
+              src="https://www.ngan-nguyen.com/images/FS-5-min_1.avif"
               alt="Upstate New York Community"
               width={1200}
               height={800}
@@ -219,7 +219,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-6.avif"
+              src="https://www.ngan-nguyen.com/images/FS-6-min_1FS-6-min.avif"
               alt="Brand Identity"
               width={1200}
               height={600}
@@ -232,7 +232,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-8.gif"
+              src="https://www.ngan-nguyen.com/images/FS-8-min-min.gif"
               alt="Interactive Animation"
               width={800}
               height={600}
@@ -245,7 +245,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-8-1.avif"
+              src="https://www.ngan-nguyen.com/images/FS-8-1-min_1FS-8-1-min.avif"
               alt="Typography System"
               width={1200}
               height={800}
@@ -258,7 +258,7 @@ export default function FarmSwarmingProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/fs-9.avif"
+              src="https://www.ngan-nguyen.com/images/FS-9-min_1FS-9-min.avif"
               alt="Farm Swarming Logo"
               width={1200}
               height={800}
