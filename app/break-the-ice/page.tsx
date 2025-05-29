@@ -79,7 +79,7 @@ export default function BreakTheIceProject() {
         {/* Hero Image */}
         <div className="mb-16">
           <Image
-            src="/images/break-ice-hero.png"
+            src="https://images.squarespace-cdn.com/content/v1/5f84a90214a92c7962100b44/897ff9e4-b399-4095-bd4b-3f92baf6154f/cover+%281%29.png?format=1500w"
             alt="Break the Ice Hero"
             width={1500}
             height={600}
@@ -162,7 +162,7 @@ export default function BreakTheIceProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/break-ice-overview.png"
+              src="https://images.squarespace-cdn.com/content/v1/5f84a90214a92c7962100b44/e8fc641e-fcd0-4364-a727-1a7835d2289c/Copy+of+Final+Presentation+%285%29.png?format=1500w"
               alt="Break the Ice Overview"
               width={1500}
               height={800}
@@ -189,7 +189,7 @@ export default function BreakTheIceProject() {
           <div className="grid md:grid-cols-4 gap-4 mb-8">
             <div className="text-center">
               <Image
-                src="/images/break-ice-lockscreen.png"
+                src="https://images.squarespace-cdn.com/content/v1/5f84a90214a92c7962100b44/752dcdf4-f3bf-47f6-8bca-5bbbe80451b5/lock+screen+%282%29.png?format=300w"
                 alt="Lock screen notification"
                 width={300}
                 height={600}
@@ -198,7 +198,7 @@ export default function BreakTheIceProject() {
             </div>
             <div className="text-center">
               <Image
-                src="/images/break-ice-onoff.gif"
+                src="https://images.squarespace-cdn.com/content/v1/5f84a90214a92c7962100b44/be275850-c8dc-4747-a893-18608cba4c02/OnOff.gif?format=300w"
                 alt="On/Off toggle"
                 width={300}
                 height={300}
@@ -207,7 +207,7 @@ export default function BreakTheIceProject() {
             </div>
             <div className="text-center">
               <Image
-                src="/images/break-ice-active.png"
+                src="https://images.squarespace-cdn.com/content/v1/5f84a90214a92c7962100b44/fffa24d7-b287-4ba4-98c6-1bd3fad8b9a5/Active+User+%281%29.png?format=300w"
                 alt="Active user screen"
                 width={300}
                 height={600}
@@ -216,7 +216,7 @@ export default function BreakTheIceProject() {
             </div>
             <div className="text-center">
               <Image
-                src="/images/break-ice-interaction.gif"
+                src="https://images.squarespace-cdn.com/content/v1/5f84a90214a92c7962100b44/ee679eb1-c79a-4461-925d-85e1bd5a3b35/ezgif.com-gif-maker+%281%29.gif?format=300w"
                 alt="User interaction"
                 width={300}
                 height={600}
@@ -233,7 +233,7 @@ export default function BreakTheIceProject() {
           </h2>
           <div className="mb-8">
             <Image
-              src="/images/break-ice-all-screens.png"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-tVFDyzePVmrAeePOwcPlKzN8POStPX.png"
               alt="All app screens overview"
               width={1200}
               height={800}
@@ -249,7 +249,7 @@ export default function BreakTheIceProject() {
         <section className="mb-16">
           <div className="mb-8">
             <Image
-              src="/images/break-ice-idea.png"
+              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-4fuWh6kJvMSWy7uv3tdKeGPtQrVFyZ.png"
               alt="Third Places Concept"
               width={1200}
               height={400}
