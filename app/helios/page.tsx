@@ -199,13 +199,13 @@ export default function HeliosProject() {
           <h2 className={`text-3xl font-bold mb-8 ${isDarkMode ? "text-white" : "text-black"}`}>Target Users</h2>
           <div className="space-y-12">
             <div className="flex flex-col items-center space-y-4">
-              <Image src="/images/user1.png" alt="User persona 1" width={300} height={300} className="rounded-lg" />
+              <Image src="https://gracemmaa.com/images/user1.png" alt="User persona 1" width={300} height={300} className="rounded-lg" />
               <blockquote className={`text-lg text-center ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
                 "I want to look for a project that aligns with my skills and interests."
               </blockquote>
             </div>
             <div className="flex flex-col items-center space-y-4">
-              <Image src="/images/user2.png" alt="User persona 2" width={300} height={300} className="rounded-lg" />
+              <Image src="https://gracemmaa.com/images/user2.png" alt="User persona 2" width={300} height={300} className="rounded-lg" />
               <blockquote className={`text-lg text-center ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}>
                 "I want to look for dedicated and skilled teammates to join my project."
               </blockquote>
@@ -273,7 +273,7 @@ export default function HeliosProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/helios1.png"
+              src="https://gracemmaa.com/images/helios1.png"
               alt="Helios browse projects interface"
               width={800}
               height={500}
@@ -298,7 +298,7 @@ export default function HeliosProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/card.png"
+              src="https://gracemmaa.com/images/card.png"
               alt="Card component design"
               width={600}
               height={400}
@@ -321,7 +321,7 @@ export default function HeliosProject() {
           <h2 className={`text-3xl font-bold mb-6 ${isDarkMode ? "text-white" : "text-black"}`}>Past Iterations</h2>
           <div className="mb-8">
             <Image
-              src="/images/wireframe1.png"
+              src="https://gracemmaa.com/images/wireframe1.png"
               alt="Past iterations wireframes"
               width={800}
               height={600}
@@ -344,7 +344,7 @@ export default function HeliosProject() {
           </h2>
           <div className="mb-8">
             <Image
-              src="/images/details.png"
+              src="https://gracemmaa.com/images/details.png"
               alt="Project details page"
               width={600}
               height={800}
@@ -359,7 +359,7 @@ export default function HeliosProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/contact.png"
+              src="https://gracemmaa.com/images/contact.png"
               alt="Contact section design"
               width={400}
               height={600}
@@ -387,7 +387,7 @@ export default function HeliosProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/wireframe2.png"
+              src="https://gracemmaa.com/images/wireframe2.png"
               alt="Chat feature wireframes"
               width={800}
               height={500}
@@ -424,7 +424,7 @@ export default function HeliosProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/team.png"
+              src="https://gracemmaa.com/images/team.png"
               alt="Finding teammates interface"
               width={800}
               height={600}
@@ -442,7 +442,7 @@ export default function HeliosProject() {
 
           <div className="mb-8">
             <Image
-              src="/images/time.png"
+              src="https://gracemmaa.com/images/time.png"
               alt="Time commitment interface"
               width={600}
               height={400}
