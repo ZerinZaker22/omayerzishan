@@ -340,7 +340,7 @@ export default function Portfolio() {
 
               <div className="relative overflow-hidden rounded-xl sm:rounded-2xl shadow-2xl group-hover:shadow-3xl transition-shadow duration-500">
                 <Image
-                  src="https://i.postimg.cc/Nj1KgfWn/Untitled-1-Recovered-01.png"
+                  src="https://christy-hu.com/images/graphic/shw/banner.jpg"
                   alt="Schoolhouse.world User Dashboard Project"
                   width={1200}
                   height={600}
