@@ -79,7 +79,7 @@ export default function HeliosProject() {
         {/* Hero Image */}
         <div className="mb-16">
           <Image
-            src="/images/helios-hero.png"
+            src="https://gracemmaa.com/images/helios2.png"
             alt="Helios Project Overview"
             width={1200}
             height={600}
