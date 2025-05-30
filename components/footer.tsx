@@ -36,7 +36,7 @@ export default function Footer({ isDarkMode }: FooterProps) {
               <Instagram className="h-5 w-5" />
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1lzQV9N3-up62-g827tlHoJ6ZirvHY7wc/view"
+              href="https://drive.google.com/file/d/1NURAtowVGuCI8tMn2agsIrnxy29rTG9G/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-white hover:text-gray-300 transition-colors p-2 rounded-lg hover:bg-gray-800 border border-gray-600 hover:border-gray-500"
